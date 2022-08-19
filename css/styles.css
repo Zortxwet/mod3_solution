@@ -1,0 +1,46 @@
+body{
+	font-family: Dynapuff;
+}
+#head{
+	border-radius: 0;
+	border: 0;
+	background-color: gray;
+	margin-left: 0;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -40px;
+	background-color: white;
+}
+.navbar-brand h1{
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: white;
+	font-family: Arial;
+}
+#list a{
+	color: white;
+	text-align: center;
+}
+h3{
+	text-align: center;
+	margin-top: 5px;
+}
+.text{
+	height: 1000px;
+	border: 1px solid black;
+	padding: 0 20px 0 20px;
+	margin-bottom: 50px;
+	background-color: green;
+	opacity: .8;
+	color: white;
+}
+#menu{
+	margin-bottom: 50px;
+}
+@media (max-width: 767px){
+	#box{
+		padding: 0 100px 0 100px
+	}
+}
