@@ -22,6 +22,14 @@ body{
 #list a{
 	color: white;
 	text-align: center;
+	border: 1px solid yellow;
+}
+.navbar-collapse{
+	border:0;
+}
+#list{
+	margin-top: 0;
+	margin-bottom: 0;
 }
 h3{
 	text-align: center;
